@@ -111,7 +111,7 @@
                             </connections>
                         </button>
                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="r6R-JR-UCz">
-                            <rect key="frame" x="57" y="459" width="19" height="19"/>
+                            <rect key="frame" x="57" y="460" width="18" height="18"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                             <fontDescription key="fontDescription" type="system" pointSize="16"/>
                             <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -121,10 +121,10 @@
                             </connections>
                         </button>
                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="gLF-X8-qmm">
-                            <rect key="frame" x="89" y="459" width="19" height="19"/>
+                            <rect key="frame" x="89" y="460" width="18" height="18"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                             <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                            <color key="tintColor" patternImage="FD44F1DF-48EA-435C-9CFC-15D20FB71823" colorSpace="pattern"/>
+                            <color key="tintColor" patternImage="BD816EEB-AD1B-4B8C-AC92-93899A3C4A2D" colorSpace="pattern"/>
                             <state key="normal" backgroundImage="redo.png"/>
                             <connections>
                                 <action selector="down:" destination="-1" eventType="touchUpInside" id="pgi-x7-2tK"/>
@@ -145,7 +145,7 @@
         </view>
     </objects>
     <resources>
-        <image name="FD44F1DF-48EA-435C-9CFC-15D20FB71823" width="320" height="460">
+        <image name="BD816EEB-AD1B-4B8C-AC92-93899A3C4A2D" width="320" height="460">
             <mutableData key="keyedArchiveRepresentation">
 YnBsaXN0MDDUAQIDBAUGPj9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK4HCBMU
 GR4fIyQsLzI4O1UkbnVsbNUJCgsMDQ4PEBESVk5TU2l6ZVYkY2xhc3NcTlNJbWFnZUZsYWdzVk5TUmVw
